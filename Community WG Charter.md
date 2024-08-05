@@ -33,15 +33,15 @@ Social Channel Growth
 
 OPEA Announce Mailing list members: 
 
-- LinkedIn members: 
-- X Followers: 
-- Slack members of #opea-general: 
-- Event Registration and Attendance: 
+- LinkedIn members: 1000
+- X Followers: 500
+- Slack members of #opea-general: 500
+- Event Registration and Attendance: 350 / 155
 - August: LinkedIn Live Demo-palooza: 50 reg / 15 attendance 
 - September: Hackathon at Innovation: 75 reg / 35 attendance 
-- October: GenAI Nightmares: X reg / X attendance 
-- November: Virtual Community Day: X reg / X attendance 
-- December: Speed Coding and Documentation Extravaganza:  X reg / X attendance 
+- October: GenAI Nightmares: 75 reg / 35 attendance 
+- November: Virtual Community Day: 75 reg / 35 attendance 
+- December: Speed Coding and Documentation Extravaganza:  75 reg / 35 attendance 
 
 Website visitors 
 
