@@ -1,14 +1,14 @@
-	#OPEA Community Working Group Charter#
+	# OPEA Community Working Group Charter#
 
-##Mission 
+## Mission 
 
 The OPEA Community Working Group aims to create an active, diverse, and self-sustaining community to support the growth of the OPEA project. 
 
-Problem Statement 
+## Problem Statement 
 
 The OPEA community is just starting to form; the Community Working Group needs to build awareness of the project and set up the infrastructure to support and empower the burgeoning community. 
 
-Scope and Priority 
+## Scope and Priority 
 
 The OPEA Community Working Group’s priority is to develop an online and in-person communication and event structure in which to allow the community to thrive.  
 
