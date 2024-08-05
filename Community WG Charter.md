@@ -1,4 +1,4 @@
-	# OPEA Community Working Group Charter#
+# OPEA Community Working Group Charter
 
 ## Mission 
 
@@ -34,7 +34,7 @@ Develop, track, maintain, and execute upon an OPEA content plan
 
 Working with the TSC to determine community growth strategies 
 
-Goals and Objectives 
+## Goals and Objectives 
 
 EOY 2024 Goals 
 
@@ -42,73 +42,73 @@ Social Channel Growth
 
 OPEA Announce Mailing list members: 
 
-LinkedIn members: 
+- LinkedIn members: 
 
-X Followers: 
+- X Followers: 
 
-Slack members of #opea-general: 
+- Slack members of #opea-general: 
 
-Event Registration and Attendance: 
+- Event Registration and Attendance: 
 
-August: LinkedIn Live Demo-palooza: 50 reg / 15 attendance 
+- August: LinkedIn Live Demo-palooza: 50 reg / 15 attendance 
 
-September: Hackathon at Innovation: 75 reg / 35 attendance 
+- September: Hackathon at Innovation: 75 reg / 35 attendance 
 
-October: GenAI Nightmares: X reg / X attendance 
+- October: GenAI Nightmares: X reg / X attendance 
 
-November: Virtual Community Day: X reg / X attendance 
+- November: Virtual Community Day: X reg / X attendance 
 
-December: Speed Coding and Documentation Extravaganza:  X reg / X attendance 
+- December: Speed Coding and Documentation Extravaganza:  X reg / X attendance 
 
 Website visitors 
 
-OPEA.dev 
+- OPEA.dev 
 
-Wiki 
+- Wiki 
 
 Content Published 
 
-Number of media mentioned 
+- Number of media mentions 
 
-Number of posts 
+- Number of posts 
 
-Number of podcasts 
+- Number of podcasts 
 
-Success Indicators & Metrics 
+## Success Indicators & Metrics 
 
 Sucess indicators include sustained participation of current audience and continued growth of audience in contribution, amplification, and attendance via: 
 
-social channels and mailing lists  
+- social channels and mailing lists  
 
-virtual and in-person event 
+- virtual and in-person event 
 
-OPEA.dev, the OPEA wiki, and the OPEA github repo  
+- OPEA.dev, the OPEA wiki, and the OPEA github repo  
 
 Metrics include: 
 
-Growth of social channels and mailing list numbers 
+- Growth of social channels and mailing list numbers 
 
-Virtual and in-person event attendance 
+- Virtual and in-person event attendance 
 
-Number of contributors, pull requests, and issues 
+- Number of contributors, pull requests, and issues 
 
-Website visitors 
+- Website visitors 
 
-Decision-making Governance 
+## Decision-making Governance 
 
 Decisions are subject to approval of the TSC. All plans will be ratified by bringing them before the Technical Steering Committee (TSC). Quarterly updates will be provided to the TSC.  
 
-Risks 
+## Risks 
 
 Lack of participation in and leadership from the Community Working Group will leave the project floundering and many operational aspects core to success of the OPEA project unmanaged. 
 
-Milestones 
+## Milestones 
 
 Goals to be set quarterly for growth in partners, contributions, social channels, and mailing list sign up.  
 
 Events have been proposed through the end of 2024 and will be tracked monthly:  
 
-Calendar of Special Events 
+## Calendar of Special Events 
 
 Month 
 
