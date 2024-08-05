@@ -14,25 +14,16 @@ The OPEA Community Working Group’s priority is to develop an online and in-per
 
  The OPEA Community Working Group is responsible for:  
 
-Social media channel growth and management 
-
-Standup addition channels as needed 
-
-Mailing list growth and management 
-
-OPEA.dev development and upkeep 
-
-The OPEA Wiki development and upkeep 
-
-OPEA community event creation, management, and advertisement 
-
-OPEA partner participation in community initiatives 
-
-Crafting the OPEA story for social and media 
-
-Develop, track, maintain, and execute upon an OPEA content plan 
-
-Working with the TSC to determine community growth strategies 
+- Social media channel growth and management 
+- Standup addition channels as needed 
+- Mailing list growth and management 
+- OPEA.dev development and upkeep 
+- The OPEA Wiki development and upkeep 
+- OPEA community event creation, management, and advertisement 
+- OPEA partner participation in community initiatives 
+- Crafting the OPEA story for social and media 
+- Develop, track, maintain, and execute upon an OPEA content plan 
+- Working with the TSC to determine community growth strategies 
 
 ## Goals and Objectives 
 
@@ -43,35 +34,24 @@ Social Channel Growth
 OPEA Announce Mailing list members: 
 
 - LinkedIn members: 
-
 - X Followers: 
-
 - Slack members of #opea-general: 
-
 - Event Registration and Attendance: 
-
 - August: LinkedIn Live Demo-palooza: 50 reg / 15 attendance 
-
 - September: Hackathon at Innovation: 75 reg / 35 attendance 
-
 - October: GenAI Nightmares: X reg / X attendance 
-
 - November: Virtual Community Day: X reg / X attendance 
-
 - December: Speed Coding and Documentation Extravaganza:  X reg / X attendance 
 
 Website visitors 
 
 - OPEA.dev 
-
 - Wiki 
 
 Content Published 
 
 - Number of media mentions 
-
 - Number of posts 
-
 - Number of podcasts 
 
 ## Success Indicators & Metrics 
@@ -79,19 +59,14 @@ Content Published
 Sucess indicators include sustained participation of current audience and continued growth of audience in contribution, amplification, and attendance via: 
 
 - social channels and mailing lists  
-
 - virtual and in-person event 
-
 - OPEA.dev, the OPEA wiki, and the OPEA github repo  
 
 Metrics include: 
 
 - Growth of social channels and mailing list numbers 
-
 - Virtual and in-person event attendance 
-
 - Number of contributors, pull requests, and issues 
-
 - Website visitors 
 
 ## Decision-making Governance 
