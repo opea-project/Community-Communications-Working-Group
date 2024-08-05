@@ -89,7 +89,7 @@ Events have been proposed through the end of 2024 and will be tracked monthly:
 | ------------- | ------------- |
 | May 2024 | Community Day (In-person) |
 | July 2024 | Community Day (Virtual) |
-| August 2024 | LinkedIn Live Demo-palooza |
+| August 2024 |[LinkedIn Live Demo-palooza](https://www.linkedin.com/events/genaiworkflowsolutionsforenterp7223710312330395650/theater/) |
 | September 2024 | Hackathon at Innovation (In-person) |
 | October 2024 | GenAI Nightmares (Virtual) |
 | November 2024 | Community Day (Virtual) |
