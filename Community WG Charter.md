@@ -87,46 +87,12 @@ Events have been proposed through the end of 2024 and will be tracked monthly:
 
 | Month         | Event     |
 | ------------- | ------------- |
-| May| Cell 2, Row 1 |
-| July | Cell 1, Row 2 |
-| August| Cell 2, Row 1 |
-| September | Cell 1, Row 2 |
-| October | Cell 1, Row 2 |
-| November | Cell 2, Row 1 |
-| December | Cell 1, Row 2 |
-
-
-
-Month 
-
-Event 
-
-May 
-
-In-person Community Days 
-
-July 
-
-Virtual Community Day 
-
-August 
-
-LinkedIn Live Demo-palooza 
-
-September 
-
-Hackathon at Innovation 
-
-October 
-
-GenAI Nightmares 
-
-November 
-
-Virtual Community Day 
-
-December 
-
-Speed Coding and Documentation Extravaganza 
+| May 2024 | Community Day (In-person) |
+| July 2024 | Community Day (Virtual) |
+| August 2024 | LinkedIn Live Demo-palooza |
+| September 2024 | Hackathon at Innovation (In-person) |
+| October 2024 | GenAI Nightmares (Virtual) |
+| November 2024 | Community Day (Virtual) |
+| December 2024 | Speed Coding and Docs Extravaganza (Virtual) |
 
  
