@@ -85,6 +85,18 @@ Events have been proposed through the end of 2024 and will be tracked monthly:
 
 ## Calendar of Special Events 
 
+| Month         | Event     |
+| ------------- | ------------- |
+| May| Cell 2, Row 1 |
+| July | Cell 1, Row 2 |
+| August| Cell 2, Row 1 |
+| September | Cell 1, Row 2 |
+| October | Cell 1, Row 2 |
+| November | Cell 2, Row 1 |
+| December | Cell 1, Row 2 |
+
+
+
 Month 
 
 Event 
