@@ -31,8 +31,7 @@ EOY 2024 Goals
 
 Social Channel Growth 
 
-OPEA Announce Mailing list members: 
-
+- OPEA Announce Mailing list members: 500
 - LinkedIn members: 1000
 - X Followers: 500
 - Slack members of #opea-general: 500
@@ -45,14 +44,14 @@ OPEA Announce Mailing list members:
 
 Website visitors 
 
-- OPEA.dev 
-- Wiki 
+- OPEA.dev: 5,000
+- Wiki: 5,000 
 
 Content Published 
 
-- Number of media mentions 
-- Number of posts 
-- Number of podcasts 
+20 Number of media mentions 
+5 Number of posts 
+3 Number of podcasts 
 
 ## Success Indicators & Metrics 
 
