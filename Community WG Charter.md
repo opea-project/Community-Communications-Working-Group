@@ -89,7 +89,7 @@ Events have been proposed through the end of 2024 and will be tracked monthly:
 | May 2024 | [Community Day - In-person](https://wiki.lfaidata.foundation/display/DL/OPEA+Community+Days+-+May+14-15%2C+2024/) |
 | July 2024 | [Community Day- Virtual](https://wiki.lfaidata.foundation/display/DL/OPEA+Community+Day+-+July+16th/)|
 | August 2024 |[LinkedIn Live Demo-palooza](https://www.linkedin.com/events/genaiworkflowsolutionsforenterp7223710312330395650/theater/) |
-| September 2024 | Hackathon at Innovation - Virtual |
+| September 2024 | Hackathon - Virtual |
 | October 2024 | GenAI Nightmares - Virtual |
 | November 2024 | Community Day - Virtual |
 | December 2024 | Speed Coding and Docs Extravaganza - Virtual |
